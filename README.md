@@ -32,10 +32,10 @@ Place the `skill-creator/` folder in your Claude Code skills directory:
 
 ```bash
 # Clone this repo
-git clone <repo-url>
+git clone https://github.com/kaankacar/claude-skill-creator.git
 
 # Copy the skill folder to your Claude Code skills directory
-cp -r skill-creator/ ~/.claude/skills/skill-creator/
+cp -r claude-skill-creator/skill-creator/ ~/.claude/skills/skill-creator/
 ```
 
 Alternatively, if your project has a `.claude/skills/` directory, place it there for project-scoped usage.
